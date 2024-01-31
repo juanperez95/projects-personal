@@ -1,0 +1,6 @@
+C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\Asociacion\asociacion\bin\Release\asociacion.dll
+C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\Asociacion\asociacion\bin\Release\asociacion.pdb
+C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\Asociacion\asociacion\obj\Release\asociacion.csproj.AssemblyReference.cache
+C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\Asociacion\asociacion\obj\Release\asociacion.csproj.CoreCompileInputs.cache
+C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\Asociacion\asociacion\obj\Release\asociacion.dll
+C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\Asociacion\asociacion\obj\Release\asociacion.pdb
