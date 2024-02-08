@@ -26,6 +26,7 @@ namespace GMODBlocker
         // Metodo para matar el proceso hl2.exe
         public void killHl2()
         {
+            listaProcesos = Process.GetProcesses();
             foreach (Process proceso in listaProcesos)
             {
                 if (proceso.ProcessName.ToString() == "hl2")
@@ -43,8 +44,7 @@ namespace GMODBlocker
 
         // Metodo para apagar el equipo.
         public void shutDownGmod()
-        {
-            killHl2();          
+        {                    
             Process apagado = new Process();
             apagado.StartInfo.FileName = "shutdown";
             apagado.StartInfo.Arguments = "/s /t 5";
@@ -202,7 +202,8 @@ namespace GMODBlocker
             TimeSpan tiempoFinal = new TimeSpan(0, 0, 0, 0, (int)controlTiempo.ElapsedMilliseconds);
             lbRegresivo.Text = $"0:{(tiempoFinal.Minutes.ToString().Length < 2 ? "0" + tiempoFinal.Minutes.ToString(): tiempoFinal.Minutes.ToString())}" +
                 $":{(tiempoFinal.Seconds.ToString().Length < 2 ? "0" + tiempoFinal.Seconds.ToString(): tiempoFinal.Seconds.ToString())}";
-            if(tiempoFinal.Minutes == minutosShutdown)
+            killHl2();
+            if (tiempoFinal.Minutes == minutosShutdown)
             {
                 controlTiempo.Stop();
                 tiempoApagado.Enabled = false;

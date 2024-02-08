@@ -8,3 +8,13 @@ C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\GMODBlo
 C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\GMODBlocker\GMODBlocker\obj\Debug\GMODBlocker.csproj.CoreCompileInputs.cache
 C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\GMODBlocker\GMODBlocker\obj\Debug\GMODBlocker.exe
 C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\GMODBlocker\GMODBlocker\obj\Debug\GMODBlocker.pdb
+C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\asociacion\GMODBlocker\GMODBlocker\bin\Debug\GMODBlocker.exe.config
+C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\asociacion\GMODBlocker\GMODBlocker\bin\Debug\GMODBlocker.exe
+C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\asociacion\GMODBlocker\GMODBlocker\bin\Debug\GMODBlocker.pdb
+C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\asociacion\GMODBlocker\GMODBlocker\obj\Debug\GMODBlocker.csproj.AssemblyReference.cache
+C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\asociacion\GMODBlocker\GMODBlocker\obj\Debug\GMODBlocker.Form1.resources
+C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\asociacion\GMODBlocker\GMODBlocker\obj\Debug\GMODBlocker.Properties.Resources.resources
+C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\asociacion\GMODBlocker\GMODBlocker\obj\Debug\GMODBlocker.csproj.GenerateResource.cache
+C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\asociacion\GMODBlocker\GMODBlocker\obj\Debug\GMODBlocker.csproj.CoreCompileInputs.cache
+C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\asociacion\GMODBlocker\GMODBlocker\obj\Debug\GMODBlocker.exe
+C:\Users\familia perez\Desktop\Trabajos ADSO\Trimestre 6\.NET\Ejercicios\asociacion\GMODBlocker\GMODBlocker\obj\Debug\GMODBlocker.pdb
